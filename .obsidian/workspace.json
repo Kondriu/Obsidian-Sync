@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "98bd9b4e02fd6699",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0d70acc1228c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f2e34aab9f1123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playwright/Обучение Playwright + Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обучение Playwright + Java"
+            }
+          },
+          {
+            "id": "83527cdd93be0e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рецепты/Проверенный Паннетоне.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проверенный Паннетоне"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd30b1a554823c5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab841c3a66ffe482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb414d9af9bd4e35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "075a545c876a00f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8485ef7f5599b61e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f10d942bc65cdf12",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a1f097848c2818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df02f644ba02d2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Playwright.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Playwright"
+            }
+          },
+          {
+            "id": "35f1ce1dd2c8cc6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Playwright.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Playwright"
+            }
+          },
+          {
+            "id": "d78dfc83b10bad84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9aec7282c85d23a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cf539f77c6d09541",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Playwright.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Playwright"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83527cdd93be0e21",
+  "lastOpenFiles": [
+    "Рецепты/панеттоне.md",
+    "Рецепты/Проверенный Паннетоне.md",
+    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.4.  Параллельный запуск и CI-CD.md",
+    "Untitled.base",
+    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.5.1. Пример BaseTest.md",
+    "Playwright/Карточки/1. Навигация и управление браузером/1.2.  Контексты и изоляция сессий.md",
+    "Playwright/Карточки/1. Навигация и управление браузером/1.1.  Архитектура и базовая инициализация.md",
+    "Playwright/Обучение Playwright + Java.md",
+    "Playwright/Playwright.md",
+    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.3.  Allure и TestWatcher.md",
+    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.2.  Мокирование API (Network Interception).md",
+    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.1.  Трассировка (Tracing).md",
+    "Playwright/Карточки/2. Поиск элементов (Локаторы)/2.1.  Стратегии поиска (Locators).md",
+    "Playwright/Карточки/4. Ожидания и стабильность/4.2. Явные ожидания (Explicit Waits).md",
+    "Playwright/Карточки/2. Поиск элементов (Локаторы)",
+    "Playwright/Карточки/1. Навигация и управление браузером",
+    "Playwright/Карточки/5. Продвинутые инструменты и отладка",
+    "Playwright/Карточки/4. Ожидания и стабильность/4.1.  Умные ассерты (Assertions).md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.6.  Загрузка и скачивание файлов.md",
+    "Playwright/Карточки/4. Ожидания и стабильность",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.5.  Обработка диалогов (Alert, Confirm).md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.4.  Hover и динамические меню.md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.3.  Чекбоксы, Радиокнопки и Селекты.md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.2.  Клики с модификаторами (Ctrl, Shift).md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.1. Ввод текста и клики.md",
+    "Playwright/Карточки/2. Поиск элементов (Локаторы)/2.3.  Динамические элементы и XPath.md",
+    "Playwright/Карточки/3. Взаимодействие с элементами",
+    "Playwright/Карточки/2. Поиск элементов (Локаторы)/2.2.  Работа с IFrames («Матрёшка»).md",
+    "Playwright/Карточки/1. Навигация и управление браузером/1.4. Сохранение состояния (Storage State).md",
+    "Playwright/Карточки/1. Навигация и управление браузером/1.3. Эмуляция мобильных устройств.md",
+    "Playwright/Карточки",
+    "Playwright",
+    "Рецепты/Маринованная цветная капуста.md",
+    "Рецепты/Бананчелло (Banano).md",
+    "Рецепты"
+  ]
+}
