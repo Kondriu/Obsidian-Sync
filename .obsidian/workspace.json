@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job-Search/Salary table.md",
+                "file": "Survival/Radio/Portable radio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salary table"
+              "title": "Portable radio"
             }
           },
           {
-            "id": "ebdb0dd6ab8a1419",
+            "id": "df625389f16bce70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job-Search/SDET atx CV.md",
+                "file": "Survival/Radio/Кадио каналалы в Кракове.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDET atx CV"
+              "title": "Кадио каналалы в Кракове"
+            }
+          },
+          {
+            "id": "ff87b3d046040644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Survival/Radio/Радиодиапазоны/Very High Frequency (VHF) 2m.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Very High Frequency (VHF) 2m"
             }
           }
         ],
@@ -198,44 +212,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "eb414d9af9bd4e35",
+  "active": "df625389f16bce70",
   "lastOpenFiles": [
-    "Job-Search/Salary table.md",
-    "Job-Search/SDET atx CV.md",
-    "Job-Search/Cover Letter.md",
-    "Traiding/Влияние войны на крипту.md",
-    "Untitled",
-    "Pasted image 20260505172013.png",
-    "Traiding/Алгоритмы определения тренда цены.md",
-    "Traiding/Комиссия на бирже.md",
-    "Traiding/Маркет-мейкеры.md",
-    "Traiding/Как ставится стоп-лосс?.md",
-    "Traiding/Шорт и Лонг.md",
-    "Traiding/Графики/Графики M1, M5.md",
-    "Traiding/Графики/Индикатор RSI.md",
-    "Traiding/Индикаторы VWAP, EMA, RSI.md",
-    "Traiding/Графики/Индикатор EMA.md",
-    "Traiding/Графики/Индикатор VWAP.md",
-    "Traiding/Графики",
-    "Traiding/Скальпинг.md",
-    "PhotoStock's/Stock Photo Platforms.md",
-    "PhotoStock's/Software.md",
-    "Playwright/Обучение Playwright + Java.md",
-    "PhotoStock's",
-    "Traiding/Ask & Bid.md",
-    "Рецепты/Проверенный Паннетоне.md",
-    "Job-Search",
-    "Traiding",
-    "Рецепты/панеттоне.md",
-    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.4.  Параллельный запуск и CI-CD.md",
+    "Survival/Radio/Лицензия.md",
+    "Survival/Radio/Кадио каналалы в Кракове.md",
+    "Survival/Radio/Радиодиапазоны/Ultra High Frequency (UHF) 70cm.md",
+    "Survival/Radio/Радиодиапазоны/CB Radio.md",
+    "Survival/Radio/Радиодиапазоны/Радиодиапазоны.md",
+    "Survival/Radio/Радиодиапазоны/Very High Frequency (VHF) 2m.md",
+    "Survival/Radio/Радиодиапазоны/TETRA.md",
+    "Survival/Radio/Shortlist/XHDATA D808.md",
+    "Survival/Radio/Shortlist/Tecsun PL-880.md",
+    "Survival/Radio/Shortlist/Tecsun PL-330.md",
+    "Survival/Radio/Portable radio.md",
+    "Survival/Radio/Радиодиапазоны/FM радио.md",
+    "Survival/Radio/Радиодиапазоны/AM (MW) — средние волны.md",
     "Untitled.base",
-    "Playwright/Карточки/5. Продвинутые инструменты и отладка/5.5.1. Пример BaseTest.md",
+    "Survival/Radio/Радиодиапазоны/Shortwave (SW,  HF) — короткие волны.md",
+    "AM / MW — средние волны.md",
+    "Survival/Radio/Радиодиапазоны",
+    "AM ",
+    "Survival/Power/18650 vs AA Comparison Table.md",
+    "Survival/Power",
+    "_storge/Pasted image 20260511105433.png",
+    "_storge/().md",
+    "_storge",
+    "_storge/Pasted image 20260511031402.png",
+    "XHDATA D-808.md",
+    "Job-Search/Salary table.md",
+    "Survival/Radio/Shortlist",
     "Playwright/Карточки/1. Навигация и управление браузером/1.2.  Контексты и изоляция сессий.md",
+    "Survival/Radio",
+    "Survival",
+    "Survival.md",
     "Playwright/Карточки/1. Навигация и управление браузером/1.1.  Архитектура и базовая инициализация.md",
-    "Playwright/Playwright.md",
-    "Playwright/Карточки/2. Поиск элементов (Локаторы)",
-    "Playwright/Карточки/1. Навигация и управление браузером",
-    "Playwright/Карточки/5. Продвинутые инструменты и отладка",
-    "Playwright/Карточки/4. Ожидания и стабильность"
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.6.  Загрузка и скачивание файлов.md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.2.  Клики с модификаторами (Ctrl, Shift).md",
+    "Playwright/Карточки/3. Взаимодействие с элементами/3.1. Ввод текста и клики.md",
+    "Playwright/Карточки/2. Поиск элементов (Локаторы)/2.3.  Динамические элементы и XPath.md",
+    "Pasted image 20260505172013.png",
+    "Traiding/Графики",
+    "PhotoStock's"
   ]
 }
